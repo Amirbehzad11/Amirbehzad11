@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir Behzad
 
-<!--
-**Amirbehzad11/Amirbehzad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Laravel Specialist | Go Learner
 
-Here are some ideas to get you started:
+I'm a backend developer with a strong focus on building scalable and maintainable web applications.
+I enjoy designing clean architectures, working with APIs, and continuously improving my skills in modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Backend Developer with experience in **PHP (Laravel)**
+* ⚙️ Strong understanding of **RESTful API design**
+* 🐳 تجربه کار با **Docker** و محیط‌های توسعه مدرن
+* 🌱 Currently learning **Go (Golang)** and exploring distributed systems
+* 🇩🇪 Preparing for working opportunities in Germany
+
+---
+
+## 🛠 Tech Stack
+
+* **Backend:** PHP (Laravel)
+* **Database:** MySQL, PostgreSQL
+* **Tools:** Docker, Git, Linux
+* **Concepts:** Clean Code, SOLID Principles, MVC Architecture, API Design
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Project Name 1
+
+Short description of what the project does and the problem it solves.
+**Tech:** Laravel, MySQL, Docker
+
+---
+
+### 🔹 Project Name 2
+
+Short description of what the project does and key features.
+**Tech:** Laravel, REST API
+
+---
+
+### 🔹 Go Project (Learning Phase)
+
+A simple project built with Go to practice concurrency and backend fundamentals.
+**Tech:** Go, HTTP, Goroutines
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Your LinkedIn Link]
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex problems into simple and efficient solutions.
