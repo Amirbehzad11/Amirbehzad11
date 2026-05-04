@@ -37,7 +37,7 @@ A simple project built with Go to practice concurrency and backend fundamentals.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/amir-behzad-96b431217]
+* 💼 LinkedIn: www.linkedin.com/in/amir-behzad-96b431217
 * 📧 Email: [Amirbehzadofficial@gmail.com](mailto:Amirbehzadofficial@gmail.com)
 
 ---
