@@ -2,18 +2,18 @@
 
 ### Backend Developer | Laravel Specialist | Go Learner
 
-I'm a backend developer with a strong focus on building scalable and maintainable web applications.
+I'm a backend developer focused on building scalable, maintainable, and efficient web applications.
 I enjoy designing clean architectures, working with APIs, and continuously improving my skills in modern backend technologies.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Backend Developer with experience in **PHP (Laravel)**
+* 💻 Backend Developer with solid experience in **PHP (Laravel)**
 * ⚙️ Strong understanding of **RESTful API design**
-* 🐳 تجربه کار با **Docker** و محیط‌های توسعه مدرن
+* 🐳 Experience working with **Docker** and modern development environments
 * 🌱 Currently learning **Go (Golang)** and exploring distributed systems
-* 🇩🇪 Preparing for working opportunities in Germany
+* 🇩🇪 Preparing for job opportunities in Germany
 
 ---
 
@@ -28,20 +28,6 @@ I enjoy designing clean architectures, working with APIs, and continuously impro
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name 1
-
-Short description of what the project does and the problem it solves.
-**Tech:** Laravel, MySQL, Docker
-
----
-
-### 🔹 Project Name 2
-
-Short description of what the project does and key features.
-**Tech:** Laravel, REST API
-
----
-
 ### 🔹 Go Project (Learning Phase)
 
 A simple project built with Go to practice concurrency and backend fundamentals.
@@ -51,8 +37,8 @@ A simple project built with Go to practice concurrency and backend fundamentals.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn Link]
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [www.linkedin.com/in/amir-behzad-96b431217]
+* 📧 Email: [Amirbehzadofficial@gmail.com](mailto:Amirbehzadofficial@gmail.com)
 
 ---
 
